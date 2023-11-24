@@ -22,6 +22,6 @@ Step 2. Add the dependency
 
 ```gradle
   dependencies {
-    implementation 'com.github.nikohpng:android:104.5112.03.yw.6'
+    implementation 'com.github.nikohpng:android:104.5112.03.yw.7'
   }
 ```
